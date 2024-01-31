@@ -1,0 +1,1 @@
+# lossy_image_storage_2024
